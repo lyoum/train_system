@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-#include<string.h>1
+#include<string.h>
 
 struct userdetail{
 	char uname[50], pwd[50];
